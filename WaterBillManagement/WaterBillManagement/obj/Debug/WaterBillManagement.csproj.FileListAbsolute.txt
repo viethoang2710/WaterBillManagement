@@ -1,0 +1,10 @@
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\bin\Debug\WaterBillManagement.exe.config
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\bin\Debug\WaterBillManagement.exe
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\bin\Debug\WaterBillManagement.pdb
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.csproj.AssemblyReference.cache
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.Form1.resources
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.Properties.Resources.resources
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.csproj.GenerateResource.cache
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.csproj.CoreCompileInputs.cache
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.exe
+D:\Programming\Lab\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.pdb
